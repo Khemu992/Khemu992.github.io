@@ -1,0 +1,20 @@
+img{
+    height:600px;
+    width: 900px;
+}
+.text{
+    color: orange;
+}
+div{
+    margin-left: 300px;
+}
+html{
+    text-align: center;
+    background-color: #242582;
+    font-size: 2rem;
+
+}
+h1:hover{
+    background-color: yellow;
+    color:blue;
+}
