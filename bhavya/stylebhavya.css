@@ -1,0 +1,16 @@
+html{
+    background-color:rgb(160, 183, 154);
+    text-align: center;
+    position: relative;
+}
+h2[class="Bhavya"]{
+    color:rgb(208, 33, 91);
+}
+img{
+    height:200px;
+    width:300px;
+}
+.bhavyadiv{
+    position: absolute;
+    margin-left: 50rem;
+}
